@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "tipoComponente": "Memoria RAM",
+        "marca": "Aorus",
+        "descripcion": "kit 8x2 de 16GB RGB",
+        "precio": 200,
+        "img": "../image/memoria_ram_aorus.png"
+    },
+    {
+        "id": 2,
+        "tipoComponente": "Chasis ATX",
+        "marca": "Aorus",
+        "descripcion": "AC 300W RGB",
+        "precio": 400,
+        "img": "../image/chasis_aorus.png"
+    },
+    {
+        "id": 3,
+        "tipoComponente": "Placa madre",
+        "marca": "Aorus",
+        "descripcion": "z370 gamimg 5 wifi",
+        "precio": 800,
+        "img": "../image/placa_aorus.png"
+    },
+    {
+        "id": 4,
+        "tipoComponente": "Mouse",
+        "marca": "Aorus",
+        "descripcion": "M3 RGB",
+        "precio": 100,
+        "img": "../image/mouse_aorus.png"
+    },
+    {
+        "id": 5,
+        "tipoComponente": "Disipador",
+        "marca": "Aorus",
+        "descripcion": "ATC 700 RGB",
+        "precio": 100,
+        "img": "../image/disipador_aorus.png"
+    },
+    {
+        "id": 6,
+        "tipoComponente": "Grafica",
+        "marca": "Aorus",
+        "descripcion": "Geforce GTX 1080",
+        "precio": 800,
+        "img": "../image/grafica_aorus.png"
+    }
+]
